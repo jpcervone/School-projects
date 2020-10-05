@@ -1,1 +1,1 @@
-# Ames project, where I had to predict the price of a house based on many variables. I used many statistical tools like random forest, Lasso, etc to test which tool would give me the most accurate results.
+# Ames project
